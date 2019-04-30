@@ -1,0 +1,5 @@
+ROS Kinetic
+python 2.7 and 3.5
+opencv4.0
+face_recognition library
+yolov3
